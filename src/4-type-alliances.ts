@@ -28,9 +28,9 @@ const typeAlliances = () => {
 
 
    console.log("--TypeScript Type Alliences--");
-   console.log(`Employee Details: ${JSON.stringify(employee)}`);
+   console.log(`\nEmployee Details: ${JSON.stringify(employee)}`);
    // or
-   console.log(`Employee Details; ${employee.name} is ${employee.age} years and enjoys ${employee.hobbies.join(", ")}. Their employee ID ${employee.employeeId} and their position is ${employee.position}.`);
+   console.log(`\nEmployee Details; ${employee.name} is ${employee.age} years and enjoys ${employee.hobbies.join(", ")}. Their employee ID ${employee.employeeId} and their position is ${employee.position}.`);
    
 
 
