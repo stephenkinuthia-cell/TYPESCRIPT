@@ -4,7 +4,7 @@ const variables = () =>
 
 
         //variables
-
+        console.log("--variables--")
         let a: number = 10
         console.log(`Value of a:`, a);
         a=30

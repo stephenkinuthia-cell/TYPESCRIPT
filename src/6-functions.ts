@@ -3,7 +3,7 @@ const myFunctions = () =>{
     //function declaration
     function add(x:number, y:number): number {
         return x + y
-    }
+    }``
 
     //invoke - arguments
     let total = add(10, 15)
