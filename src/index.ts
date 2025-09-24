@@ -8,6 +8,9 @@ import controlFlow from "./7-control-flow";
 import tsLoops from "./8-loops";   
 import { Destructuring } from "./ES6/2-Destructuring";
 import spreadRest from "./ES6/3-spread-rest";
+import Mypromises from "./9-promises";
+import fetchPosts from "./10-assync-await";
+
 
 // const OldwayFunction = require("./ES6/4-commonjsexports")
 
@@ -23,8 +26,9 @@ import spreadRest from "./ES6/3-spread-rest";
 
 // OldwayFunction()
 //Destructuring()
-spreadRest()
-
+// spreadRest()
+// Mypromises()
+fetchPosts()
 
 
 
