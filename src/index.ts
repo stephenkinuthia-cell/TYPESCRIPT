@@ -12,22 +12,17 @@ import Mypromises from "./9-promises";
 import fetchPosts from "./10-assync-await";
 
 
-// const OldwayFunction = require("./ES6/4-commonjsexports")
-
-
-// variables()
-// specialTypes()
-// objectsArraysTuples()
-// typeAlliances()
-// myInterface()
-// myFunctions()
-// controlFlow()
-// 
-
-// OldwayFunction()
-//Destructuring()
-// spreadRest()
-// Mypromises()
+variables()
+specialTypes()
+objectsArraysTuples()
+typeAlliances()
+myInterface()
+myFunctions()
+controlFlow()
+OldwayFunction()
+Destructuring()
+spreadRest()
+Mypromises()
 fetchPosts()
 
 
