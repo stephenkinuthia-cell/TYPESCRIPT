@@ -1,4 +1,4 @@
-#TypeScript Learning Journey  
+#TypeScript
 
 This repository contains my TypeScript learning code from the Teach2Give QA/QE program.  
 It documents my journey from TypeScript basics to advanced concepts, with practical examples and demos.  
